@@ -1,0 +1,2 @@
+cd "C:\Users\Dante Eniyel\Desktop\2.semestar\LP\projekt\Projekt"
+"C:\Program Files (x86)\swipl\bin\swipl" -s Problem_stabilnih_brakova.pl

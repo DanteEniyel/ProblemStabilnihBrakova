@@ -1,0 +1,9 @@
+4.
+pero. ana. nina. sanja. iva.
+ivo. ana. nina. iva. sanja.
+ante. nina. ana. sanja. iva.
+jure. sanja. ana. iva. nina.
+ana. ivo. jure. ante. pero.
+iva. ante. jure. pero. ivo.
+sanja. ivo. ante. jure. pero.
+nina. ante. ivo. pero. jure.
